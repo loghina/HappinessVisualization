@@ -13,5 +13,5 @@ Authors: Alexandru Loghin, Francesco Santoro, Chiara Prencipe, Cyril Sabbagh
 
 Developped in Processing see http://www.processing.org for details.
 To run the project on a Windows 64 machine, launch FINALVERSION.bat. You need to install Java 7u45 or later (just the JRE)
-for a proper execution. 
+for a proper execution.  
 For a different OS, import the project on your local Processing installation and run it from there.
